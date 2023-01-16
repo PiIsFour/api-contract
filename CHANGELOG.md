@@ -1,5 +1,11 @@
 # api-contract
 
+## 0.0.3
+
+### Patch Changes
+
+- 173bffe: add missing changeset publish to publish pipeline
+
 ## 0.0.2
 
 ### Patch Changes
