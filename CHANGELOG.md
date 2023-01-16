@@ -1,5 +1,11 @@
 # api-contract
 
+## 0.0.4
+
+### Patch Changes
+
+- de5b858: make package public to be able to deploy
+
 ## 0.0.3
 
 ### Patch Changes
